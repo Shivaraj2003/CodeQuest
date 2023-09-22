@@ -6,10 +6,10 @@ You are tasked with writing a program that generates the first `x` terms of an a
 
 ## Example
 
-### Sample Input
-2
-5
+## Sample Input
+#### 2
+#### 5
 
 ### Sample Output
-5 11
-5 11 14 17 23
+#### 5 11
+#### 5 11 14 17 23
