@@ -20,7 +20,7 @@ public class Solution {
         System.out.println("Enter total number of terms");
         int x = sc.nextInt();
         int[] result = termsOfAP(x);
-        System.out.println("First " + x + " terms of the arithmetic progression:");
+        System.out.println("First " + x + " terms of the arithmetic progression: ");
         for (int term : result) {
             System.out.print(term + " ");
         }
